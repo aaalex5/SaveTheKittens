@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "f4e3db65aabf80eb2119d2c787cbfaf8"
+build_time: [554059549, 116945000]
+inputs:
+  "/Users/alexalajbegovic/Desktop/SaveTheKittens/SaveTheKittens/ViewController.swift": [554059545, 0]
+  "/Users/alexalajbegovic/Desktop/SaveTheKittens/SaveTheKittens/AppDelegate.swift": [554059545, 0]
